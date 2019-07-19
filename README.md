@@ -31,3 +31,5 @@ https://drive.google.com/open?id=1dnPpZDFwA5fIXGeJFj5mkkm9QU3XNKGK
     1. スライドの内容？
   * 第2回目のFeedbackシート（1人4枚で150枚）
   * 第3回参加した資料の評価・感想シート
+* 伴走希望者や運営の人にお願いしたい、高校生のサポート
+https://drive.google.com/open?id=1aT__xPl-usgvfqNbyw3uVPjVYjK6cxrd
