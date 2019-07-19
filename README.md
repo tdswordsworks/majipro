@@ -13,6 +13,7 @@ https://drive.google.com/open?id=1INADeft5g8iO_4ahWm3xah2N-OyRWQ5v
 * 各種配布資料  
 https://drive.google.com/open?id=1dnPpZDFwA5fIXGeJFj5mkkm9QU3XNKGK  
 内容は以下の通り
+  * 第1回スライドを抽出した配布資料
   * 第1回自己紹介・他己紹介シート（1人1枚で30枚）
   * 第1回連想タスクのシート（1人1枚で35枚）
   * 第1回WSの絵コンテ（グループ1枚で10枚）
